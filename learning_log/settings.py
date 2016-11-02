@@ -42,7 +42,9 @@ INSTALLED_APPS = (
     'bootstrap3',
     
     # My apps
-    'learning_logs',
+    'thawing-atoll-72530',
+    'learning-log2',
+    'learning-log',
     'users',
 )
 
@@ -127,7 +129,7 @@ if os.getcwd() == '/app':
     SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
     
     # Only allow heroku to host the project.
-    ALLOWED_HOSTS = ['learning-log2-final.herokuapp.com']
+    ALLOWED_HOSTS = ['thawing-atoll-72530.herokuapp.com']
     DEBUG = False
 
     # Static asset configuration
