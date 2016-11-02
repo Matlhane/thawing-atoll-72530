@@ -25,4 +25,4 @@ You'll also need to install a number of packages that help serve Django projects
 
 Issue the commands one at a time so you know if any package fails to install correctly. (Some of these packages may not install on Windows, so don't be concerned if you get an error message when you try to install some of them. This shouldn't affect your ability to deploy the project to Heroku.)
 
-[top](#)
+[top](#)"# thawing-atoll-72530" 
